@@ -10,5 +10,7 @@ Possible ways to be improved:
 - Implement GUI
 
 USAGE:
+```sh
 pip install -r requirements.txt
 python FoundYou.py
+```
