@@ -1,0 +1,4 @@
+yahoo-search-py==0.3
+py-bing-search==0.2.6
+google==3.0.0
+duckduckgo_search==6.1.0
