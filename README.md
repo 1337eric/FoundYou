@@ -8,3 +8,7 @@ Possible ways to be improved:
 - Add additional search engines
 - Support more dorking queries
 - Implement GUI
+
+USAGE:
+pip install -r requirements.txt
+python FoundYou.py
